@@ -1,1 +1,2 @@
-# LearnC-
+# LearnCPP
+ - My cpp study diary
